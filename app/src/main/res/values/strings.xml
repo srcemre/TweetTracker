@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TTracker</string>
+    <string name="TWITTER_CONSUMER_KEY">5NEzpzEoakS2YiNv4UVv8ifNr</string>
+    <string name="TWITTER_CONSUMER_SECRET">WDSKeyiYn9ouDyBXOPoL4cdgBvOcsXCNveGWXQhEb19KsZzhaH</string>
+    <string name="copyright">Copyright © 2020 \n All Rights Reserved.</string>
+    <string name="login_twitter">LOGIN TWITTER</string>
+    <string name="twitter_tracker">TWITTER-TRACKER</string>
+    <string name="logo">Logo</string>
+    <string name="logout">LOGOUT</string>
+    <string name="start_tracking">START TRACKING</string>
+    <string name="service_offline">SERVICE OFFLINE</string>
+    <string name="enter_username">Enter @username</string>
+    <string name="profile_picture">profile_picture</string>
+</resources>
